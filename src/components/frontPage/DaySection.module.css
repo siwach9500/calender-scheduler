@@ -1,0 +1,33 @@
+.day__section_div {
+  display: flex;
+  flex-direction: row;
+  gap: 1.2rem;
+  align-items: center;
+  padding: 1.6rem 0;
+  border-bottom: 1px solid rgb(24, 24, 24, 0.4);
+}
+
+.day__section_date_div {
+  /* background: aqua; */
+  border-right: 1px solid rgb(24, 24, 24, 0.4);
+  width: 10%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.day__section_timing_div {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  align-items: center;
+  justify-content: center;
+  gap: 1.2rem;
+  padding: 0 1.2rem;
+}
+
+.day__section_timing_div div {
+  display: flex;
+  flex-direction: row;
+  gap: 0.8rem;
+}
