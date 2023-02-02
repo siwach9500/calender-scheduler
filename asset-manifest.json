@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/calender-scheduler/static/css/main.a85c9b20.css",
+    "main.js": "/calender-scheduler/static/js/main.3a6c4340.js",
+    "index.html": "/calender-scheduler/index.html",
+    "main.a85c9b20.css.map": "/calender-scheduler/static/css/main.a85c9b20.css.map",
+    "main.3a6c4340.js.map": "/calender-scheduler/static/js/main.3a6c4340.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a85c9b20.css",
+    "static/js/main.3a6c4340.js"
+  ]
+}
